@@ -1,2 +1,2 @@
-config:
-    info: 12345678
+server:
+    port: 12345678
